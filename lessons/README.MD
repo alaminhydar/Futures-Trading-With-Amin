@@ -11,4 +11,4 @@ You can access them in **two ways**:
    git clone https://github.com/yourusername/futures-trading-with-amin.git
 2. **Download lessons directly from my site:**   
    ```bash
-   https://alaminhydar.github.io/pages/futures-trading.html  🌐
+   https://alaminhydar.github.io/pages/futures-trading.html
